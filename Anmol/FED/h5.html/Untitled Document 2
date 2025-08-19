@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>My first webapplication</title>
+	</head>
+<body>
+<h1>My firest useless page</h1>
+<h2>About page</h2>
+<h3>my qulification</h3>
+<p>recently i was passed my 12th board s</p>
+<p>Hey iam anmol soni today is my second day in univercity my univercity name is ybn univercity am dont know what tha full form of ybn.</p>
+
+      <h4>Qulification</h4> 
+        <ol>
+        <li>
+        Indermediate</li>
+      
+        
+        <ul> 
+        <li>Marks 72%</li>
+        <li>Jac</li>
+        <li>Inter Science collage hazaribagh</li>
+        </ul>
+   
+      
+        <li>matriculation</li>
+        </ol>
+        <ul>
+        <li>Marks  96.4%</li>
+        <li>CBSE</li>
+        <li>Sangame public school</li>
+        </ul>
+        </ol>
+        
+        <h4>Skills</h4>
+        <ul>
+        <li>pro gamer</li>
+        <li>singing</hi>
+        <li>Good rider</li>
+        </ul>
+        
+</body>
+</html>
